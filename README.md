@@ -17,10 +17,10 @@ Finally it's convenient to put results in a table like this:
 <table>
 <thead>
 <tr colspan="4">
-<td>Model: **Smena-8M**</td>
+  <td>Model: <strong>Smena-8M</strong></td>
 </tr>
 <tr colspan="4">
-<td>Serial No.: **178060**</td>
+  <td>Serial No.: <strong>178060</strong></td>
 </tr>
 <tr>
 <th>No.</th>
