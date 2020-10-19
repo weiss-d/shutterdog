@@ -1,5 +1,5 @@
 # 📷 Shutterdog
-Film camera shutter chronograph made with Arduino.
+Film camera shutter chronograph made with Arduino Nano.
 
 🔏 **This repo in not maintained. However, feel free to ask any questions through the issues, or fork it and make a better version by yourself.**
 
